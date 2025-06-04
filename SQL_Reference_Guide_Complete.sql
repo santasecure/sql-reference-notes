@@ -1,4 +1,4 @@
--- 📚 SQL Reference Guide | Created by Kristie Santa | 2025
+-- 📚 SQL Reference Guide | Created by Kristie | 2025
 -- SQL Modules 1–9 | University of Cincinnati
 
 -- ========================================
